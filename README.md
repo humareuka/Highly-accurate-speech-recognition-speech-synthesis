@@ -1,2 +1,2 @@
-# Highly-accurate-speech-recognition-speech-synthesis
+# 高性能音声認識＆音声合成
 Pythonで高精度な音声認識と音声合成が利用できます
