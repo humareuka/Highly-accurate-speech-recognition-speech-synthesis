@@ -7,10 +7,10 @@
 Coeiroinkのインストールも必要です。
 
 # ダウンロード
-**Coeiroink**
+**Coeiroink**：
 https://coeiroink.com/download
 
-**FFmpeg**
+**FFmpeg**：
 https://ffmpeg.org/download.html
 
 # Q&A
