@@ -7,11 +7,11 @@
 Coeiroinkのインストールも必要です。
 
 # ダウンロード
+**本体**:
+https://github.com/humareuka/RVCP/releases
+
 **Coeiroink**：
 https://coeiroink.com/download
 
 **FFmpeg**：
 https://ffmpeg.org/download.html
-
-**本体**:
-https://github.com/humareuka/RVCP/releases
