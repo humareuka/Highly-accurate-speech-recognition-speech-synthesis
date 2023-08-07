@@ -7,7 +7,7 @@
 Coeiroinkのインストールも必要です。
 
 # ダウンロード
-**本体**:
+**本体**：
 https://github.com/humareuka/RVCP/releases
 
 **Coeiroink**：
