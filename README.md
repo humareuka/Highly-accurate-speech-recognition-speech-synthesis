@@ -17,12 +17,10 @@ https://github.com/humareuka/RVCP/releases
 
 https://coeiroink.com/download
 
-**FFmpeg**
-
-**手動でインストールする場合**
+**FFmpegを手動でインストールする場合**
 
 https://ffmpeg.org/download.html
 
-**自動でインストールする場合**
+**FFmpegを自動でインストールする場合**
 
 https://github.com/humareuka/FFmpeg-Auto-Setup-Tool
