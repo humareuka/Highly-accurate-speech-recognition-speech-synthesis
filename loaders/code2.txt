@@ -2,7 +2,6 @@ import os
 import time
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
-import onse_gose2
 import pyaudio
 import wave
 from pykakasi import kakasi
