@@ -1,0 +1,5 @@
+import time
+
+print("これはテストです")
+time.sleep(5)
+print("テスト成功です")
